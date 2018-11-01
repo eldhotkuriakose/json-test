@@ -2,8 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
-      "body":"test body"
-      "userId":"1"
+      "title": "hello",
+      "body":"test body",
+      "userId":"1",
     }
 }
